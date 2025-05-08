@@ -1,0 +1,89 @@
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T10:58:36.814Z"}
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T11:02:52.967Z"}
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T11:03:27.520Z"}
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T11:04:22.013Z"}
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T11:06:11.917Z"}
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T11:08:49.417Z"}
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T11:09:06.954Z"}
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T11:13:10.994Z"}
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T11:16:28.854Z"}
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T11:25:30.486Z"}
+{"level":"info","message":"MongoDB Connected: ac-jau31ve-shard-00-00.dpip6ur.mongodb.net","service":"identity-service","timestamp":"2025-05-07T11:25:52.479Z"}
+{"level":"info","message":"MongoDB Connected: ac-jau31ve-shard-00-01.dpip6ur.mongodb.net","service":"identity-service","timestamp":"2025-05-07T11:26:28.637Z"}
+{"level":"info","message":"MongoDB Connected: ac-jau31ve-shard-00-00.dpip6ur.mongodb.net","service":"identity-service","timestamp":"2025-05-07T12:04:26.598Z"}
+{"level":"info","message":"MongoDB Connected: ac-jau31ve-shard-00-02.dpip6ur.mongodb.net","service":"identity-service","timestamp":"2025-05-07T12:08:36.852Z"}
+{"level":"info","message":"MongoDB Connected: ac-jau31ve-shard-00-02.dpip6ur.mongodb.net","service":"identity-service","timestamp":"2025-05-07T12:09:21.931Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-05-07T12:33:50.172Z"}
+{"level":"info","message":"MongoDB Connected: ac-jau31ve-shard-00-00.dpip6ur.mongodb.net","service":"identity-service","timestamp":"2025-05-07T12:33:51.476Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-05-07T12:34:51.113Z"}
+{"level":"info","message":"MongoDB Connected: ac-jau31ve-shard-00-00.dpip6ur.mongodb.net","service":"identity-service","timestamp":"2025-05-07T12:34:52.088Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-05-07T12:37:28.785Z"}
+{"level":"info","message":"MongoDB Connected: ac-jau31ve-shard-00-02.dpip6ur.mongodb.net","service":"identity-service","timestamp":"2025-05-07T12:37:30.128Z"}
+{"level":"info","message":"Request received","method":"POST","service":"identity-service","timestamp":"2025-05-07T12:40:44.079Z","url":"/api/auth/register"}
+{"body":{"email":"abdul@gmail.com","name":"Abdullah","password":"123456"},"level":"info","message":"Request body","service":"identity-service","timestamp":"2025-05-07T12:40:44.079Z"}
+{"ip":"::1","level":"warn","message":"Too many requests","service":"identity-service","timestamp":"2025-05-07T12:40:44.081Z"}
+{"level":"info","message":"Request received","method":"POST","service":"identity-service","timestamp":"2025-05-07T12:40:48.077Z","url":"/api/auth/register"}
+{"body":{"email":"abdul@gmail.com","name":"Abdullah","password":"123456"},"level":"info","message":"Request body","service":"identity-service","timestamp":"2025-05-07T12:40:48.078Z"}
+{"ip":"::1","level":"warn","message":"Too many requests","service":"identity-service","timestamp":"2025-05-07T12:40:48.079Z"}
+{"level":"info","message":"Request received","method":"POST","service":"identity-service","timestamp":"2025-05-07T12:40:49.351Z","url":"/api/auth/register"}
+{"body":{"email":"abdul@gmail.com","name":"Abdullah","password":"123456"},"level":"info","message":"Request body","service":"identity-service","timestamp":"2025-05-07T12:40:49.352Z"}
+{"ip":"::1","level":"warn","message":"Too many requests","service":"identity-service","timestamp":"2025-05-07T12:40:49.353Z"}
+{"level":"info","message":"Request received","method":"POST","service":"identity-service","timestamp":"2025-05-07T12:43:47.129Z","url":"/api/auth/register"}
+{"body":{"email":"abdul@gmail.com","name":"Abdullah","password":"123456"},"level":"info","message":"Request body","service":"identity-service","timestamp":"2025-05-07T12:43:47.130Z"}
+{"ip":"::1","level":"warn","message":"Too many requests","service":"identity-service","timestamp":"2025-05-07T12:43:47.130Z"}
+{"level":"info","message":"MongoDB Connected: ac-jau31ve-shard-00-00.dpip6ur.mongodb.net","service":"identity-service","timestamp":"2025-05-07T12:44:04.208Z"}
+{"level":"info","message":"Server is running on port 3001","service":"identity-service","timestamp":"2025-05-07T12:44:04.278Z"}
+{"ip":"::1","level":"warn","message":"Too many requests","service":"identity-service","timestamp":"2025-05-07T12:44:11.387Z"}
+{"level":"info","message":"Redis connected","service":"identity-service","timestamp":"2025-05-07T12:45:21.231Z"}
+{"level":"info","message":"Server running on port 3001","service":"identity-service","timestamp":"2025-05-07T12:45:21.244Z"}
+{"level":"info","message":"MongoDB Connected: ac-jau31ve-shard-00-00.dpip6ur.mongodb.net","service":"identity-service","timestamp":"2025-05-07T12:45:22.414Z"}
+{"level":"info","message":"Request received","method":"POST","service":"identity-service","timestamp":"2025-05-07T12:45:30.245Z","url":"/api/auth/register"}
+{"body":{"email":"abdul@gmail.com","name":"Abdullah","password":"123456"},"level":"info","message":"Request body","service":"identity-service","timestamp":"2025-05-07T12:45:30.246Z"}
+{"ip":"::1","level":"warn","message":"Too many requests","service":"identity-service","timestamp":"2025-05-07T12:45:30.247Z"}
+{"level":"info","message":"Request received","method":"POST","service":"identity-service","timestamp":"2025-05-07T12:45:33.061Z","url":"/api/auth/register"}
+{"body":{"email":"abdul@gmail.com","name":"Abdullah","password":"123456"},"level":"info","message":"Request body","service":"identity-service","timestamp":"2025-05-07T12:45:33.061Z"}
+{"ip":"::1","level":"warn","message":"Too many requests","service":"identity-service","timestamp":"2025-05-07T12:45:33.062Z"}
+{"level":"info","message":"Redis connected","service":"identity-service","timestamp":"2025-05-07T12:46:23.721Z"}
+{"level":"info","message":"Server running on port 3001","service":"identity-service","timestamp":"2025-05-07T12:46:23.736Z"}
+{"level":"info","message":"MongoDB Connected: ac-jau31ve-shard-00-00.dpip6ur.mongodb.net","service":"identity-service","timestamp":"2025-05-07T12:46:26.131Z"}
+{"level":"info","message":"Request received","method":"POST","service":"identity-service","timestamp":"2025-05-07T12:46:28.022Z","url":"/api/auth/register"}
+{"body":{"email":"abdul@gmail.com","name":"Abdullah","password":"123456"},"level":"info","message":"Request body","service":"identity-service","timestamp":"2025-05-07T12:46:28.023Z"}
+{"ip":"::1","level":"warn","message":"Too many requests","service":"identity-service","timestamp":"2025-05-07T12:46:28.025Z"}
+{"level":"info","message":"Request received","method":"POST","service":"identity-service","timestamp":"2025-05-07T12:46:29.609Z","url":"/api/auth/register"}
+{"body":{"email":"abdul@gmail.com","name":"Abdullah","password":"123456"},"level":"info","message":"Request body","service":"identity-service","timestamp":"2025-05-07T12:46:29.610Z"}
+{"ip":"::1","level":"warn","message":"Too many requests","service":"identity-service","timestamp":"2025-05-07T12:46:29.611Z"}
+{"level":"info","message":"Redis connected","service":"identity-service","timestamp":"2025-05-07T12:46:44.851Z"}
+{"level":"info","message":"Server running on port 3001","service":"identity-service","timestamp":"2025-05-07T12:46:44.862Z"}
+{"level":"info","message":"MongoDB Connected: ac-jau31ve-shard-00-00.dpip6ur.mongodb.net","service":"identity-service","timestamp":"2025-05-07T12:46:45.884Z"}
+{"level":"info","message":"Request received","method":"POST","service":"identity-service","timestamp":"2025-05-07T12:46:48.944Z","url":"/api/auth/register"}
+{"body":{"email":"abdul@gmail.com","name":"Abdullah","password":"123456"},"level":"info","message":"Request body","service":"identity-service","timestamp":"2025-05-07T12:46:48.945Z"}
+{"level":"error","message":"Error occurred: %s","service":"identity-service","timestamp":"2025-05-07T12:46:48.960Z"}
+{"level":"info","message":"Redis connected","service":"identity-service","timestamp":"2025-05-07T12:47:18.471Z"}
+{"level":"info","message":"Server running on port 3001","service":"identity-service","timestamp":"2025-05-07T12:47:18.484Z"}
+{"level":"info","message":"MongoDB Connected: ac-jau31ve-shard-00-00.dpip6ur.mongodb.net","service":"identity-service","timestamp":"2025-05-07T12:47:19.027Z"}
+{"level":"info","message":"Request received","method":"POST","service":"identity-service","timestamp":"2025-05-07T12:47:30.233Z","url":"/api/auth/register"}
+{"body":{"email":"abdul@gmail.com","name":"Abdullah","password":"123456"},"level":"info","message":"Request body","service":"identity-service","timestamp":"2025-05-07T12:47:30.234Z"}
+{"body":{"email":"abdul@gmail.com","name":"Abdullah","password":"123456"},"level":"info","message":"Registering endpoint hit","service":"identity-service","timestamp":"2025-05-07T12:47:30.237Z"}
+{"level":"error","message":"Validation error: %s","service":"identity-service","timestamp":"2025-05-07T12:47:30.241Z"}
+{"level":"info","message":"Request received","method":"POST","service":"identity-service","timestamp":"2025-05-07T12:47:41.121Z","url":"/api/auth/register"}
+{"body":{"email":"abdul@gmail.com","password":"123456","username":"Abdullah"},"level":"info","message":"Request body","service":"identity-service","timestamp":"2025-05-07T12:47:41.144Z"}
+{"body":{"email":"abdul@gmail.com","password":"123456","username":"Abdullah"},"level":"info","message":"Registering endpoint hit","service":"identity-service","timestamp":"2025-05-07T12:47:41.152Z"}
+{"id":"681b566d2d0040278365dbb1","level":"warn","message":"User registered successfully","service":"identity-service","timestamp":"2025-05-07T12:47:41.370Z"}
+{"level":"error","message":"Error registering user: %s","service":"identity-service","timestamp":"2025-05-07T12:47:41.372Z"}
+{"level":"info","message":"Redis connected","service":"identity-service","timestamp":"2025-05-07T12:49:14.790Z"}
+{"level":"info","message":"Server running on port 3001","service":"identity-service","timestamp":"2025-05-07T12:49:14.801Z"}
+{"level":"info","message":"MongoDB Connected: ac-jau31ve-shard-00-00.dpip6ur.mongodb.net","service":"identity-service","timestamp":"2025-05-07T12:49:15.873Z"}
+{"level":"info","message":"Redis connected","service":"identity-service","timestamp":"2025-05-07T12:50:29.197Z"}
+{"level":"info","message":"Server running on port 3001","service":"identity-service","timestamp":"2025-05-07T12:50:29.212Z"}
+{"level":"info","message":"MongoDB Connected: ac-jau31ve-shard-00-00.dpip6ur.mongodb.net","service":"identity-service","timestamp":"2025-05-07T12:50:30.593Z"}
+{"level":"info","message":"Request received","method":"POST","service":"identity-service","timestamp":"2025-05-07T12:50:34.453Z","url":"/api/auth/register"}
+{"body":{"email":"abdul@gmail.com","password":"123456","username":"Abdullah"},"level":"info","message":"Request body","service":"identity-service","timestamp":"2025-05-07T12:50:34.454Z"}
+{"body":{"email":"abdul@gmail.com","password":"123456","username":"Abdullah"},"level":"info","message":"Registering endpoint hit","service":"identity-service","timestamp":"2025-05-07T12:50:34.458Z"}
+{"email":"abdul@gmail.com","level":"warn","message":"User already exists","service":"identity-service","timestamp":"2025-05-07T12:50:34.574Z","username":"Abdullah"}
+{"level":"info","message":"Request received","method":"POST","service":"identity-service","timestamp":"2025-05-07T12:50:49.274Z","url":"/api/auth/register"}
+{"body":{"email":"saif@gmail.com","password":"123456","username":"Saifullaj"},"level":"info","message":"Request body","service":"identity-service","timestamp":"2025-05-07T12:50:49.275Z"}
+{"body":{"email":"saif@gmail.com","password":"123456","username":"Saifullaj"},"level":"info","message":"Registering endpoint hit","service":"identity-service","timestamp":"2025-05-07T12:50:49.281Z"}
+{"id":"681b57290672fb5906abefdb","level":"warn","message":"User registered successfully","service":"identity-service","timestamp":"2025-05-07T12:50:49.623Z"}
+{"level":"info","message":"Redis connected","service":"identity-service","timestamp":"2025-05-07T12:58:16.044Z"}
+{"level":"info","message":"Server running on port 3001","service":"identity-service","timestamp":"2025-05-07T12:58:16.057Z"}
+{"level":"info","message":"MongoDB Connected: ac-jau31ve-shard-00-00.dpip6ur.mongodb.net","service":"identity-service","timestamp":"2025-05-07T12:58:17.234Z"}

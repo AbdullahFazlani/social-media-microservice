@@ -1,0 +1,13 @@
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T10:58:36.814Z"}
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T11:02:52.967Z"}
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T11:03:27.520Z"}
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T11:04:22.013Z"}
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T11:06:11.917Z"}
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T11:08:49.417Z"}
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T11:09:06.954Z"}
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T11:13:10.994Z"}
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T11:16:28.854Z"}
+{"level":"error","message":"MongoDB connection error: %s","service":"identity-service","timestamp":"2025-05-07T11:25:30.486Z"}
+{"level":"error","message":"Error occurred: %s","service":"identity-service","timestamp":"2025-05-07T12:46:48.960Z"}
+{"level":"error","message":"Validation error: %s","service":"identity-service","timestamp":"2025-05-07T12:47:30.241Z"}
+{"level":"error","message":"Error registering user: %s","service":"identity-service","timestamp":"2025-05-07T12:47:41.372Z"}
