@@ -1,0 +1,3 @@
+{"level":"info","message":"Server running on port 3000","service":"api-gateway","timestamp":"2025-05-08T16:41:05.702Z"}
+{"level":"info","message":"Proxying requests to identity service at http://localhost:3001","service":"api-gateway","timestamp":"2025-05-08T16:41:05.713Z"}
+{"level":"info","message":"Redis connected at redis://localhost:6379","service":"api-gateway","timestamp":"2025-05-08T16:41:05.714Z"}
